@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Nishi Kumari 👋</h1>
-<h3 align="center">Aspiring Full Stack Developer from India</h3>
+<h3 align="center">  web developer & software engineer </h3>
 
 ❤️ I enjoy working with React on the frontend and Node.js with MySQL or MongoDB on the backend.  
 🤖 I'm currently exploring robotics, working on a robotic hand gripper using a 3D printer.  
@@ -23,18 +23,15 @@
 
 ## Languages and Tools:
 <div align="left">
-   <a href="#tech-stack">
-     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python icon" width="65" height="65" />
-   </a>
+   
    <a href="#javascript">
      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript icon" width="65" height="65" />
    </a>
-   <a href="#cplusplus">
-     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++ icon" width="65" height="65" />
+   <a href="#java">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java icon" width="65" height="65" />
    </a>
- <a href="#react">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65" alt="react logo" />
-</a>
+
+ 
    <a href="#html5">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 icon" width="65" height="65" />
    </a>
@@ -50,15 +47,11 @@
    <a href="#express">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js icon" width="65" height="65" />
    </a>
-   <a href="#mongodb">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB icon" width="65" height="65" />
-   </a>
+  
    <a href="#mysql">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL icon" width="65" height="65" />
    </a>
-   <a href="#restapi">
-     <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Rest API icon" width="65" height="65" />
-   </a>
+  
    <a href="#git">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git icon" width="65" height="65" />
    </a>
@@ -68,12 +61,8 @@
    <a href="#bootstrap">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap icon" width="65" height="65" />
    </a>
-   <a href="#matlab">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab icon" width="65" height="65" />
-   </a>
-   <a href="#arduino">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino icon" width="65" height="65" />
-   </a>
+  
+  
 </div>
 <br>
 
