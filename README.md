@@ -82,12 +82,10 @@
   <a href="https://leetcode.com/u/nishi71/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=F9DC5C&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="leetcode logo" />
   </a>
-  <a href="https://www.hackerrank.com/profile/pprl735757" target="_blank">
+  <a href="https://www.hackerrank.com/profile/nishi71" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/pprl735757/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforgeeks&label=&color=4CAF50&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gfg logo" />
-  </a>
+
   <a href="mailto:ns088998@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
