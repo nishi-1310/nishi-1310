@@ -14,12 +14,6 @@
 
 <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
 
-## My Tech Stack:
-- 3+ years of experience with HTML, CSS, and JavaScript.
-- 2+ years of experience with MongoDB and MySQL.
-- 1+ years of experience with React and Node.js.
-- 🏆 Skilled in developing APIs, RESTful services, and full-stack web applications.
-- Proficient with: HTML/CSS, JavaScript, React, Node.js, Express.js, MongoDB, MySQL, Git, Docker, and CI/CD.
 
 ## Languages and Tools:
 <div align="left">
@@ -30,8 +24,6 @@
    <a href="#java">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java icon" width="65" height="65" />
    </a>
-
- 
    <a href="#html5">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 icon" width="65" height="65" />
    </a>
@@ -81,13 +73,13 @@
   <a href="https://www.instagram.com/r0k_i7" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
-  <a href="https://www.linkedin.com/in/rocky-patel-36070020a/" target="_blank">
+  <a href="https://www.linkedin.com/in/nishi-kumari-39262222b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   <a href="https://github.com/nishi-1310" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
   </a>
-  <a href="https://leetcode.com/u/pprl735757/" target="_blank">
+  <a href="https://leetcode.com/u/nishi71/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=F9DC5C&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="leetcode logo" />
   </a>
   <a href="https://www.hackerrank.com/profile/pprl735757" target="_blank">
