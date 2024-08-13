@@ -2,15 +2,14 @@
 <h1 align="center">Hi, I'm Nishi Kumari 👋</h1>
 <h3 align="center">  web developer & software engineer </h3>
 
-❤️ I enjoy working with React on the frontend and Node.js with MySQL or MongoDB on the backend.  
-🤖 I'm currently exploring robotics, working on a robotic hand gripper using a 3D printer.  
+❤️ I enjoy working with React on the frontend.  
 ✨ I'm passionate about learning and applying web development technologies, with a keen focus on advanced React.
 
 ## About Me:
 - 🌱 I’m currently deepening my knowledge of advanced React concepts.
 - 👯 I’m open to collaborating on web development projects and innovative startups.
 - 💬 Feel free to ask me anything about web development or competitive coding.
-- ⚡ Fun fact: I have a 1750 rating on LeetCode and 5-star in C++ on HackerRank.
+- ⚡ Fun fact: I have a 1550 rating on LeetCode.
 
 <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
 
