@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Nishi Kumari 👋</h1>
 <h3 align="center">  web developer & software engineer </h3>
 
-❤️ I enjoy working with React on the frontend.  
+❤️ I enjoy working on the frontend.  
 ✨ I'm passionate about learning and applying web development technologies, with a keen focus on advanced React.
 
 ## About Me:
